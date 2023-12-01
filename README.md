@@ -1,6 +1,4 @@
 
-
-# Proposta de Tema de PI3
 Título: Plugin para AutoCAD: Automação para esquemas de diagramas unifilares com base em um quadro de cargas
 
 Aluno(s): Gustavo Henrique Silva Zanetti  
